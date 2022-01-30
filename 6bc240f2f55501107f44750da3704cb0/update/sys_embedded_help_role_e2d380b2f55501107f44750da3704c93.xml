@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_dd_ccl1049-demoapp_publishtoapprepo" name="sn_dd_ccl1049-demoapp_publishtoapprepo">6ed380b2f55501107f44750da3704c8f</role>
+        <role display_value="">6ed380b2f55501107f44750da3704c8f</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-30 12:21:40</sys_created_on>
